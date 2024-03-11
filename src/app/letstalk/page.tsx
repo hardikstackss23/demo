@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
-import Contentheader from "../components/contentheader";
-import Contentbody from "../components/contentbody";
-import Footer from "../components/Footer";
+import Contentheader from "../Components/contentheader";
+import Contentbody from "../Components/contentbody";
+import Footer from "../Components/Footer";
 import { motion, AnimatePresence } from "framer-motion";
 
 const page = () => {

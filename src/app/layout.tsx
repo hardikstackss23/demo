@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
-import Navbar from "./components/Navbar";
-import { NightModeProvider } from "./components/NightModeContext";
-import SmoothScroll from "./components/SmoothScroll";
-import CustomCursor from "./components/CustomCursor";
+import Navbar from "./Components/Navbar";
+import { NightModeProvider } from "./Components/NightModeContext";
+import SmoothScroll from "./Components/SmoothScroll";
+import CustomCursor from "./Components/CustomCursor";
 
 const inter = Plus_Jakarta_Sans({ subsets: ["latin"] });
 

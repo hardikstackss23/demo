@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import CustomImage from "../../components/CustomImage";
+import CustomImage from "../../Components/CustomImage";
 import test from "../../../../public/aseets/svg/test1.svg";
 import frame1 from "../../../../public/aseets/svg/portfoliodetailsFrame1.svg";
 import frame2 from "../../../../public/aseets/svg/portfoliodetailsFrame2.svg";
@@ -12,9 +12,9 @@ import frame7 from "../../../../public/aseets/svg/portfoliodetailsFrame7.svg";
 import frame8 from "../../../../public/aseets/svg/portfoliodetailsFrame8.svg";
 import tablet from "../../../../public/aseets/svg/tablet.svg";
 import monitor from "../../../../public/aseets/svg/monitor.svg";
-import { useNightMode } from "../../components/NightModeContext";
-import Footer from "../../components/Footer";
-import FooterCard from "../../components/FooterCard";
+import { useNightMode } from "../../Components/NightModeContext";
+import Footer from "../../Components/Footer";
+import FooterCard from "../../Components/FooterCard";
 
 const portfoliodetails = () => {
     const { isNightMode } = useNightMode();

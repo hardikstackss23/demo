@@ -1,13 +1,13 @@
 "use client"
 import React from "react";
-import PortfolioHeader from "../components/PortfolioHeader";
-import SinglePortfolio from "../components/SinglePortfolio";
-import DoublePortfolio from "../components/DoublePortfolio";
-import FooterCard from "../components/FooterCard";
-import Footer from "../components/Footer";
-import Portfoliodetails from "../components/portfoliodetails";
-import Careerheader from "../components/careerheader";
-import Careerjob from "../components/careerjob";
+import PortfolioHeader from "../Components/PortfolioHeader";
+import SinglePortfolio from "../Components/SinglePortfolio";
+import DoublePortfolio from "../Components/DoublePortfolio";
+import FooterCard from "../Components/FooterCard";
+import Footer from "../Components/Footer";
+import Portfoliodetails from "../Components/portfoliodetails";
+import Careerheader from "../Components/careerheader";
+import Careerjob from "../Components/careerjob";
 import { motion, AnimatePresence } from "framer-motion";
 
 const page = () => {

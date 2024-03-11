@@ -1,13 +1,13 @@
 "use client"
 import React from 'react'
 import {motion, AnimatePresence} from "framer-motion"
-import AboutHeader from '../components/AboutHeader'
-import AboutPhoto from '../components/AboutPhoto'
-import AboutCards from '../components/AboutCards'
-import AboutMessage from '../components/AboutMessage'
-import AboutJoin from '../components/AboutJoin'
-import FooterCard from '../components/FooterCard'
-import Footer from '../components/Footer'
+import AboutHeader from '../Components/AboutHeader'
+import AboutPhoto from '../Components/AboutPhoto'
+import AboutCards from '../Components/AboutCards'
+import AboutMessage from '../Components/AboutMessage'
+import AboutJoin from '../Components/AboutJoin'
+import FooterCard from '../Components/FooterCard'
+import Footer from '../Components/Footer'
 
 const page = () => {
   return (

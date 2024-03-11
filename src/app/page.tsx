@@ -1,21 +1,21 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
-import Banner from "./components/Banner";
-import BannerAboutSlider from "./components/BannerAboutSlider";
-import BannerBlog from "./components/BannerBlog";
-import BannerBlogSlider from "./components/BannerBlogSlider";
-import BannerCard from "./components/BannerCard";
-import BannerDropDown from "./components/BannerDropDown";
-import BannerIconsSlider from "./components/BannerIconsSlider";
-import BannerLogo from "./components/BannerLogo";
-import BannerOurWork from "./components/BannerOurWork";
-import BannerOurworkslider from "./components/BannerOurworkslider";
-import BannerReview from "./components/BannerReview";
-import BannerReviewslider from "./components/BannerReviewslider";
-import BannerServiceSlider from "./components/BannerServiceSlider";
-import BannerSlider from "./components/BannerSlider";
-import Footer from "./components/Footer";
-import FooterCard from "./components/FooterCard";
+import Banner from "./Components/Banner";
+import BannerAboutSlider from "./Components/BannerAboutSlider";
+import BannerBlog from "./Components/BannerBlog";
+import BannerBlogSlider from "./Components/BannerBlogSlider";
+import BannerCard from "./Components/BannerCard";
+import BannerDropDown from "./Components/BannerDropDown";
+import BannerIconsSlider from "./Components/BannerIconsSlider";
+import BannerLogo from "./Components/BannerLogo";
+import BannerOurWork from "./Components/BannerOurWork";
+import BannerOurworkslider from "./Components/BannerOurworkslider";
+import BannerReview from "./Components/BannerReview";
+import BannerReviewslider from "./Components/BannerReviewslider";
+import BannerServiceSlider from "./Components/BannerServiceSlider";
+import BannerSlider from "./Components/BannerSlider";
+import Footer from "./Components/Footer";
+import FooterCard from "./Components/FooterCard";
 
 
 export default function Page() {

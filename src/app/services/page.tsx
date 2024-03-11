@@ -1,11 +1,11 @@
 "use client"
 import React from 'react'
-import ServiceHeader from '../components/ServiceHeader'
-import ServiceServe from '../components/ServiceServe'
-import ServiceCard from '../components/ServiceCard'
-import ServiceLogo from '../components/ServiceLogo'
-import FooterCard from '../components/FooterCard'
-import Footer from '../components/Footer'
+import ServiceHeader from '../Components/ServiceHeader'
+import ServiceServe from '../Components/ServiceServe'
+import ServiceCard from '../Components/ServiceCard'
+import ServiceLogo from '../Components/ServiceLogo'
+import FooterCard from '../Components/FooterCard'
+import Footer from '../Components/Footer'
 import {motion, AnimatePresence} from "framer-motion"
 
 const page = () => {

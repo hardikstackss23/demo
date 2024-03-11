@@ -1,15 +1,15 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import Blogheader from "../components/blogheader";
-import Blognav from "../components/blognav";
-import Blogshortcard from "../components/blogshortcard";
-import Bloglongcard from "../components/bloglongcard";
-import FooterCard from "../components/FooterCard";
-import Footer from "../components/Footer";
+import Blogheader from "../Components/blogheader";
+import Blognav from "../Components/blognav";
+import Blogshortcard from "../Components/blogshortcard";
+import Bloglongcard from "../Components/bloglongcard";
+import FooterCard from "../Components/FooterCard";
+import Footer from "../Components/Footer";
 import { motion, AnimatePresence } from "framer-motion";
-import { useNightMode } from "../components/NightModeContext";
+import { useNightMode } from "../Components/NightModeContext";
 import "../globals.css";
-import Loader from '../components/loader/loader'
+import Loader from '../Components/loader/loader'
 
 const Page = () => {
   const { isNightMode } = useNightMode();

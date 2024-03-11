@@ -3,10 +3,10 @@ import React from "react";
 import Image from "next/image";
 import person from "../../../../public/aseets/svg/person-1.svg";
 import testimg from "../../../../public/aseets/svg/testimg.svg";
-import { useNightMode } from "../../components/NightModeContext";
-import Footer from "../../components/Footer";
-import FooterCard from "../../components/FooterCard";
-import Blogshortcard from "../../components/blogshortcard";
+import { useNightMode } from "../../Components/NightModeContext";
+import Footer from "../../Components/Footer";
+import FooterCard from "../../Components/FooterCard";
+import Blogshortcard from "../../Components/blogshortcard";
 import Link from "next/link";
 
 const blogdetail = () => {

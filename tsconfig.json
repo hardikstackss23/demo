@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/components/layout.tsx", "src/app/page.tsx", "public/aseets/svg/index.js", "src/app/components/DropdownItem.js", "src/app/components/NightModeContext.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/Components/layout.tsx", "src/app/page.tsx", "public/aseets/svg/index.js", "src/app/Components/DropdownItem.js", "src/app/Components/NightModeContext.js"],
   "exclude": ["node_modules"]
 }
